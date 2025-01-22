@@ -1,2 +1,2 @@
 # test_repo2
-ich bin ein repo
+Hier ist kein repo
